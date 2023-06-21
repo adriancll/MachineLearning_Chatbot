@@ -1,0 +1,32 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of Italy?",
+      "answer": "Rome"
+    },
+    {
+      "question": "Hi",
+      "answer": "Hello there!"
+    },
+    {
+      "question": "hi bot",
+      "answer": "Hello fellow human!"
+    },
+    {
+      "question": "Hello mate!",
+      "answer": "Hello there"
+    },
+    {
+      "question": "?",
+      "answer": "?"
+    },
+    {
+      "question": "how are you",
+      "answer": "Im doing great! Thanks for asking!"
+    },
+    {
+      "question": "hello",
+      "answer": "Hello there!"
+    }
+  ]
+}
